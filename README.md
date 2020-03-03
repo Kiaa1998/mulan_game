@@ -7,9 +7,9 @@
   1b. [Concept](#concept) <br>
 
 2. [Architecture](#architecture) <br>
-  2a. [Visuals](#visuals) <br>
-  2b. [Sounds](#sounds) <br>
-  2c. [Interactions](#interactions) <br>
+  2a. [Mechanics](#mechanics) <br>
+  2b. [Visuals](#visuals) <br>
+  2c. [Sounds](#sounds) <br>
 
 3. [References](#references) <br>
   3a. [Phaser.min.js](#Phaser.min.js) <br>
@@ -33,6 +33,8 @@
  ## Architecture
  2 Platform levels alternated w/ 3D renders telling main events
 
+ ### Mechanics
+ 
  ### Visuals
  - Graphic Style
   - Lego style
