@@ -72,6 +72,6 @@ A web server where we published our website.
  
  ## Course
  
- Politecnico di Milano - Scuola del Design
- Laboratorio di Computer Grafica - A.A. 2018/2019
+ Politecnico di Milano - Scuola del Design <br>
+ Laboratorio di Computer Grafica - A.A. 2018/2019 <br>
  Professori: Maresa Bertolo, Laura Micoli, Vincenzo Rana
