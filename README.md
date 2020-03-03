@@ -15,10 +15,9 @@
 3. [Code Challenges](#code-challenges) <br>
 
 4. [References](#references) <br>
-  4a. [P5.js](#p5.js) <br>
-  4b. [Node.js](#node.js) <br>
-  4c. [Firebase](#firebase) <br>
-  4d. [Heroku](#heroku) <br>
+  4a. [Phaser.min.js](#Phaser.min.js) <br>
+  4b. [Fenix](#Fenix) <br>
+
 
 5. [Credits](#credits) <br>
 
@@ -30,7 +29,7 @@
 
 ## References
 
-### phaser.min.js
+### Phaser.min.js
 
 ___
 
