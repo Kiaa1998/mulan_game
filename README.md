@@ -21,7 +21,7 @@
 
 5. [Credits](#credits) <br>
 
-6. [Team Members](#team-members) <br>
+6. [Team](#team) <br>
 
 7. [Course](#course) <br>
 
@@ -59,17 +59,17 @@ A web server where we published our website.
 // Everytime we had troubles and questions, Google 
 // leaded us to this website where we found very helpful answers.
 
-## Team Members
-
-Chiara Alberti
-Carlo Boschis
-Virginia Braut
-Elisa Carimati
-Sara Corradi
-Eleonora Nava
-Viola Moliterni
-Sofia Gusella
-
+ ## Team
+ 
+ * Chiara Alberti
+ * Carlo Boschis
+ * Virginia Braut
+ * Sara Corradi
+ * Elisa Carimati
+ * Eleonora Nava
+ * Viola Moliterni
+ * Sofia Gusella
+ 
  ## Course
  
  Politecnico di Milano - Scuola del Design
