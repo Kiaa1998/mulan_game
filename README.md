@@ -1,5 +1,31 @@
 # Mulan 10 Years Later
 
+### Table of Contents
+
+1. [The Project](#the-project) <br>
+  1a. [Context](#context) <br>
+  1b. [Idea](#idea) <br>
+
+2. [Design Challenges](#design-challenges) <br>
+  2a. [Architecture](#architecture) <br>
+  2b. [Visuals](#visuals) <br>
+  2c. [Sounds](#sounds) <br>
+  2d. [Interactions](#interactions) <br>
+
+3. [Code Challenges](#code-challenges) <br>
+
+4. [References](#references) <br>
+  4a. [P5.js](#p5.js) <br>
+  4b. [Node.js](#node.js) <br>
+  4c. [Firebase](#firebase) <br>
+  4d. [Heroku](#heroku) <br>
+
+5. [Credits](#credits) <br>
+
+6. [Team Members](#team-members) <br>
+
+7. [Course](#course) <br>
+
 ## Concept
 
 ## References
