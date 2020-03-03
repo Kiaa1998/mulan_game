@@ -70,8 +70,8 @@ Eleonora Nava
 Viola Moliterni
 Sofia Gusella
 
-## Course
-
-Politecnico di Milano - Scuola del Design
-Laboratorio di Computer Grafica - A.A. 2018/2019
-Professori: Maresa Bertolo, Laura Micoli, Vincenzo Rana
+ ## Course
+ 
+ Politecnico di Milano - Scuola del Design
+ Laboratorio di Computer Grafica - A.A. 2018/2019
+ Professori: Maresa Bertolo, Laura Micoli, Vincenzo Rana
